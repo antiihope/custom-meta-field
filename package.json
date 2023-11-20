@@ -26,8 +26,13 @@
 		"*.scss": "npx stylelint --fix"
 	},
 	"dependencies": {
+		"@babel/runtime": "^7.23.2",
 		"@wordpress/block-editor": "^8.0.11",
 		"@wordpress/blocks": "^11.1.4",
+		"@wordpress/components": "^25.12.0",
+		"@wordpress/core-data": "^6.23.0",
+		"@wordpress/data": "^9.15.0",
+		"@wordpress/date": "^4.45.0",
 		"@wordpress/i18n": "^4.2.4"
 	},
 	"devDependencies": {

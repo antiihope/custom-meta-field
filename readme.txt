@@ -1,4 +1,4 @@
-=== Boilerplate ===
+=== Metadata Block ===
 Contributors:      The WordPress Contributors
 Tags:              block
 Tested up to:      5.7.0
